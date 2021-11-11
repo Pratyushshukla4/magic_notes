@@ -1,0 +1,18 @@
+.navbar{
+    flex-direction: column;
+    height: auto;
+    /* padding-bottom: 10px; */
+}
+.container1{
+    top: 24%;
+}
+.l1{
+    margin-top: 15px;
+   margin-bottom: 12px;}
+.l2{
+    /* margin-top: 15px; */
+   margin-bottom: 12px;
+}
+.search{
+    margin-bottom: 20px;
+}
